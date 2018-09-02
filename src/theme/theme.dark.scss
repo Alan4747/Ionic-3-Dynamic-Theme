@@ -1,0 +1,35 @@
+.dark-theme{
+	ion-content {
+		background-color: #616A6B;
+	}
+
+	.toolbar-title {
+		color: #F8F9F9;
+	}
+
+	.header .toolbar-background {
+		border-color: #707B7C;
+		background-color: #707B7C;
+	}
+	
+  
+
+    .button-full {
+    	background-color:#c3d0d2;
+     }
+
+    .button-md:hover:not(.disable-hover) {
+   		 background-color: #c3d0d2;
+	}
+	.bar-button {
+		color: #c3d0d2; 
+		
+    }
+    .button-inner{
+        color: black;
+	}
+	
+	
+	
+
+}

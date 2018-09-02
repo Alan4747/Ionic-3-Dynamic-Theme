@@ -1,0 +1,25 @@
+.neon-theme{
+	ion-content {
+		background-color: #BBDEFB;
+	}
+
+	.toolbar-title {
+		color: #BBDEFB;
+	}
+
+	.header .toolbar-background {
+		border-color: #64B5F6;
+		background-color: #64B5F6;
+	}
+	.button {
+		color: black;
+    }
+    .button-full {
+    	background-color:#E3F2FD;
+     }
+
+    .button-md:hover:not(.disable-hover) {
+   		 background-color: #E3F2FD;
+	}
+    
+}
