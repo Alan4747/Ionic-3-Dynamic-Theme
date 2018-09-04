@@ -1,3 +1,6 @@
-# Ionic-3-Dynamic-Theme
+# Ionic 3 Dynamic Theme
 
-## Coming soon
+## Representation
+
+There are three different themes in the application and they can be dynamically changed to each other.
+Following screenshots are a representation for this feature.
